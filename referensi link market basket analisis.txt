@@ -1,0 +1,23 @@
+association analysis:
+
+association rules mining
+
+https://www.kaggle.com/code/yugagrawal95/market-basket-analysis-apriori-in-python/notebook
+
+https://github.com/ashishpatel26/Market-Basket-Analysis/blob/master/Market%20Basket%20Analysis%20Using%20mlxtend%20package.ipynb
+
+https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=a9a2cbeb64a42b1bef993be47bd479cb7b5af833&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f74617566696b656479732f746175646174612d496e646f6e657369612f613961326362656236346134326231626566393933626534376264343739636237623561663833332f4d6f64656c25323052656b6f6d656e646173692532304173736f63696174696f6e25323052756c65732e6970796e62&logged_in=false&nwo=taufikedys%2Ftaudata-Indonesia&path=Model+Rekomendasi+Association+Rules.ipynb&platform=android&repository_id=260064257&repository_type=Repository&version=100
+
+https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=6853c45b3c7e65bf62ed3bec52938cb6a6e80bff&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f696d6d737377642f646174612f363835336334356233633765363562663632656433626563353239333863623661366538306266662f4d61726b65745f4261736b65745f416e616c797369732e6970796e62&logged_in=false&nwo=immsswd%2Fdata&path=Market_Basket_Analysis.ipynb&platform=android&repository_id=358115893&repository_type=Repository&version=101
+
+https://github.com/rhasanbd/Market-Basket-Analysis/blob/master/Frequent%20Itemsets%20Generation-Brute%20Force.ipynb
+
+http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/
+
+https://www.kaggle.com/code/yugagrawal95/market-basket-analysis-apriori-in-python/notebook
+
+https://github.com/okzapradhana/simple-apriori-algorithm/blob/master/Apriori.ipynb
+
+http://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/
+
+https://github.com/xgao0412/Apriori-on-kaggle-ecommerce-data
